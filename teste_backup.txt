@@ -1,0 +1,3 @@
+git add teste_backup.txt
+git commit -m "Adicionando texto ao arquivo de backup"
+git push
