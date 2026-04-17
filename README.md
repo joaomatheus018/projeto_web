@@ -1,7 +1,7 @@
-# Projeto Web - Domínio do Terminal
- Este projeto foi criado totalmente via linha de comando no Ubuntu.
+🛠️  # Projeto Web - Domínio do Terminal
+ Este projeto foi criado totalmente via de linha de comando no Ubuntu
 
-## Comandos Principais Usado:
+📌 ## Comandos Principais Usado:
  - mkdir e cd
  - touch, cp e mv
  - nano e vim
